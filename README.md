@@ -15,3 +15,4 @@ Patcher, Keystrokes, Scrollable Tooltips and other mods: https://sk1er.club/
 Cowlection: https://github.com/cow-mc/Cowlection
 Dungeon Rooms Mod: https://github.com/Quantizr/DungeonRoomsMod/releases/tag/v3.2.4
 Essential: Downloaded automatic from Patcher for Skytils, NEC, All Sk1er Content
+OldAnimations: https://oldanimationsmod.net/ (DOWNLOAD THE COSMETICS AND ANIMATIONS NOT JUST THE COSMETICS)
